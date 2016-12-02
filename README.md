@@ -1,2 +1,5 @@
 # temp_converter
-converted fahrenheit to celsius
+
+converts fahrenheit to Celsius
+
+
