@@ -7,7 +7,8 @@ int main(int argc, char *argv[])
 {
 float celc;
 float fahr;
-fahr = argv[1];
+fahr = atoi{argv[1]};
+pritnf("argv = %d",fahr);
 celc = (fahr - FRZPT) * SCLFACT;
 printf("Celcius:%.1f\n",celc);
 
